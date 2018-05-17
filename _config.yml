@@ -5,7 +5,7 @@ description: Expert in Buying and Selling homes in Bay county.
 show_downloads: true
 
 baseurl: "" # change this to the subpath of your site, e.g. /blog. Leave it empty if you don't need it.
-url: "https://kimguynn.github.io" # change this to the base hostname & protocol for your site
+url: "http://kimguynn.com" # change this to the base hostname & protocol for your site
 
 google_analytics:
 # cayman-blog date format
